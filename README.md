@@ -1,5 +1,5 @@
-# Solutions to coding puzzles for 2019
-My personal solutions to coding puzzles I find online, in 2019.
+# Solutions to coding puzzles
+My personal solutions to coding puzzles I find online.
 
 Purpose: exercising my coding muscles with fun challenges and using a variety of languages.
 
